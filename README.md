@@ -1,4 +1,4 @@
-# Test task via VK 
+# Quick VK test task 
 
 This project is a React application developed according to the given task requirements.
 
